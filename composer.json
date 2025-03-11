@@ -10,7 +10,7 @@
         "wpackagist-plugin/essential-addons-for-elementor-lite":"^6.0.0",
         "wpackagist-plugin/google-site-kit":"^1.148.0",
         "wpackagist-plugin/google-analytics-for-wordpress":"^9.0.1",
-        "wpackagist-plugin/jetpack":"^13.4.3",
+        "wpackagist-plugin/jetpack":"^14.4",
         "wpackagist-plugin/wordfence":"^8.0.3",
         "wpackagist-plugin/wordpress-seo":"^24.6",
         "wpackagist-plugin/better-search-replace":"^1.4.2",
